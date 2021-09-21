@@ -1,9 +1,9 @@
 body {
-  font-family: 'Reggae One', cursive;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     font-weight: bolder;
     line-height: 1;
-    background-color: black;
+    background-color: rgb(250, 248, 248);
      /* background: url(./assets/stretch-limousine-denver-co.jpeg) no-repeat center center fixed; */
       -webkit-background-size: cover;
       -moz-background-size: cover;
@@ -12,7 +12,7 @@ body {
   } 
   
   textarea{
-    background: black;
+    background: rgb(7, 7, 7);
     border: none;
     line-height: 24px;
     width:100px;
