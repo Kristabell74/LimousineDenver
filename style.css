@@ -12,14 +12,8 @@ body {
       background-size: cover;
       -o-background-size: cover;
   } 
-  .form1{
-    padding-top: 75px;
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 75px;
-  }
-/*   
-  textarea{
+  
+ /* textarea{
     background: rgb(7, 7, 7);
     border: none;
     line-height: 24px;
@@ -29,7 +23,17 @@ body {
    
   } */
 
-  
+  form {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 1in;
+    margin-left: 1in;
+  }
+
+  .h5 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+  }
   
   .jumbotron {
     text-align: center;
@@ -54,14 +58,14 @@ body {
   .card7{
     margin-top: 25px;
   }
-.a{
-  color: white;
-}
-.card9{
+
+ card9{
   padding-top: 75px;
   margin-left: 25px;
   margin-right: 25px;
   padding-bottom: 75px;
+
+ }
    
-} 
+ 
   
