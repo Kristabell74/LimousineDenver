@@ -35,9 +35,6 @@ https://github.com/Kristabell74/progressive-budget.git
 
 To install necessary dependencies, run the following command:
 
-```
-npm i 
-```
 
 ## Usage
 
@@ -53,15 +50,10 @@ bootstrap, unsplash
 
 ## Start Application Locally 
 
-localhost: 3000
+
 
 ## Tests
 
-To run tests, run the following command:
-
-```
-npm test
-```
 
 ## Questions
 
